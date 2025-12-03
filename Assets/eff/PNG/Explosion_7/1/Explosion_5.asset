@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3787946d635da5f4693f4d1fdfad2af8, type: 3}
-  m_Name: Explosion_8
+  m_Name: Explosion_5
   m_EditorClassIdentifier: 
-  attackEffectPrefab: {fileID: 2664959056337900772, guid: 8736631681b739c4a972e7fa4e581223, type: 3}
-  effectDuration: 0.4
-  cooldownTime: 4
-  skillIcon: {fileID: 21300000, guid: b97c1ccd5a03db94a84d213c2c9ede91, type: 3}
+  attackEffectPrefab: {fileID: 1365567768444988047, guid: 8d7de95825dbe454c81400dabc7f0ae0, type: 3}
+  effectDuration: 0.35
+  cooldownTime: 1
+  skillIcon: {fileID: 21300000, guid: f39543338afaffc44916bf079ed2cccf, type: 3}
   skillName: 

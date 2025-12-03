@@ -15,4 +15,5 @@ MonoBehaviour:
   attackEffectPrefab: {fileID: 7283133647689020092, guid: db33835ef7f17044386f9f3689fac8ff, type: 3}
   effectDuration: 0.4
   cooldownTime: 3
-  key: 49
+  skillIcon: {fileID: 21300000, guid: bb44e4cf96c3a254fa7e962a0dd03157, type: 3}
+  skillName: 

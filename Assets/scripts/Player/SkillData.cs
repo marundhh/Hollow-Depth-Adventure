@@ -8,6 +8,7 @@ public class SkillData : ScriptableObject
     public float effectDuration = 1f;
     public float cooldownTime = 1f;
 
-    [Header("Control Key")]
-    public KeyCode key = KeyCode.Alpha1;
+    [Header("Display")]
+    public Sprite skillIcon;
+    public string skillName;
 }

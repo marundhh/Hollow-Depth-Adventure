@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Enemy
   - AttackTrigger
+  - exp
   layers:
   - Default
   - TransparentFX
